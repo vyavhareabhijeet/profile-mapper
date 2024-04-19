@@ -1,0 +1,35 @@
+/* ProfileDetail.css */
+.profile-detail {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-photo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .profile-header-info h2 {
+    margin: 0;
+  }
+  
+  .profile-header-info p {
+    margin: 5px 0;
+  }
+  
+  .profile-summary {
+    margin-top: 20px;
+  }
+  
+  /* Add more styles as needed */
+  
